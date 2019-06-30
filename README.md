@@ -1,5 +1,4 @@
 # hello-world
-Just another sitory
 Greetings Gitworld, 
 I am a technical recruiter learning how to work with Git!!
 I like chinese food from Canton
